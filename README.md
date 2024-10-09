@@ -1,5 +1,4 @@
-<img align ="center" src = "![image](https://github.com/user-attachments/assets/5cb1d374-0b90-41ce-8da7-a53aa9bef49e)
-" />
+<img align ="center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 ## Hi there 👋
 
 <!--
