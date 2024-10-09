@@ -13,7 +13,7 @@
 <h2 align = "center"> Pyton </h2>
 <h2 align = "center"> Machine learning </h2>
 <h2 align = "center"> Data Scientist </h2>
----------
+-------------------------------------------
 
 GitHub Stats 🚀
 
