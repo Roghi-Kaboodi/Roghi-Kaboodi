@@ -8,6 +8,13 @@
 ---------
 <img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 
+**Lerning :**
+'''diff
++ SQL Server
++ Pyton
++ Machine learning
++ Data Scientist
+
 GitHub Stats 🚀
 
 <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Roghi-Kaboodi&show_icons=true&theme=radical" />
