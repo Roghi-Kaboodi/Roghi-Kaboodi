@@ -5,7 +5,7 @@
 - university : Computer Engineering Tehran
 - currently : Study and learn
 - quote : nothing for now
----
+------
 <img align ="center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 ## Hi there 👋
 
