@@ -9,10 +9,10 @@
 <img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 
 **Lerning :**
-SQL Server
-Pyton
-Machine learning
-Data Scientist
+<h2 align = "center"> SQL Server </h2>
+<h2 align = "center"> Pyton </h2>
+<h2 align = "center"> Machine learning </h2>
+<h2 align = "center"> Data Scientist </h2>
 
 GitHub Stats 🚀
 
