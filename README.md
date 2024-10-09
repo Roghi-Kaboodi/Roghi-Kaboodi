@@ -6,13 +6,11 @@
 - Currently : Study and Learn
 - Quote : Nothing for Now
 ------
-<img align ="center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
+<img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 ------
+GitHub Stats 🚀 
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Roghi-Kaboodi&show_icons=true&theme=radical" />
 
-<!--
-**Roghi-Kaboodi/Roghi-Kaboodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
