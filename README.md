@@ -1,10 +1,10 @@
-**who am i?**
-- full Name : Roghayeh Kaboodi
+**Who Am I?**
+- Full Name : Roghayeh Kaboodi
 - Nick Name : Sahar
-- birthDay : 2003 July 10 , Thursday
-- university : Computer Engineering Tehran
-- currently : Study and learn
-- quote : nothing for now
+- Birthday : 2003 July 10 , Thursday
+- University : Computer Engineering Tehran
+- Currently : Study and Learn
+- Quote : Nothing for Now
 ------
 <img align ="center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 ## Hi there 👋
