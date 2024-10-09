@@ -11,9 +11,9 @@
 **Lerning :**
 '''diff
 + const login = () => SQL Server
-+ const login = () => Pyton
+- const login = () => Pyton
 + const login = () => Machine learning
-+ const login = () => Data Scientist
+- const login = () => Data Scientist
 '''
 
 GitHub Stats 🚀
