@@ -11,6 +11,8 @@ Am I :
 
 ---------
 
+<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=Roghi-Kaboodi&show_icons=true&theme=radical" />
+
 <img src="https://img.shields.io/badge/Study-Lerning:-pink" alt="Study-Learning">
 <img src="https://img.shields.io/badge/Machine%20learning-pink" alt="Machine Learning">
 <img src="https://img.shields.io/badge/Data%20Scientist-pink" alt="Data Scientist">
@@ -18,9 +20,7 @@ Am I :
 <img src="https://img.shields.io/badge/Pyton-pink" alt="Python">
 
 
-GitHub Stats 🚀
 
-<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Roghi-Kaboodi&show_icons=true&theme=radical" />
 
 https://img.shields.io/badge/Go-top-pink
 
