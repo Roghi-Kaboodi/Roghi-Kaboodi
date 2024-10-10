@@ -1,25 +1,10 @@
-marquee{
- font-family:tahoma;
- width: 100%;
- padding: 10px 0;
- background-color: #0688e7;
- color: #fff;
- text-align:center;
-}
-<marquee>
- <a href="https://free-learn.ir/"><img src="files/cat.gif"></a>
- <a href="https://free-learn.ir/"><img src="files/cat.gif"></a>
- <a href="https://free-learn.ir/"><img src="files/cat.gif"></a>
-</marquee>
-**Who Am I?**
+<img align = "left" src = "<iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p> /> "**Who Am I?** 
 - Full Name : Roghayeh Kaboodi
 - Nick Name : Sahar
 - Birthday : 2003 July 10 , Thursday
 - University : Computer Engineering Tehran
 - Currently : Study and Learn
 - Quote : Nothing for Now
-
-
 ---------
 <img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 
