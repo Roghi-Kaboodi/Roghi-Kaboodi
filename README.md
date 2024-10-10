@@ -12,10 +12,11 @@ Am I :
 ---------
 
 <img src="https://img.shields.io/badge/Study-Lerning:-pink" alt="Study-Learning">
-<img src="https://img.shields.io/badge/SQL%20Server-pink" alt="SQL Server">
-<img src="https://img.shields.io/badge/Pyton-pink" alt="Python">
 <img src="https://img.shields.io/badge/Machine%20learning-pink" alt="Machine Learning">
 <img src="https://img.shields.io/badge/Data%20Scientist-pink" alt="Data Scientist">
+<img src="https://img.shields.io/badge/SQL%20Server-pink" alt="SQL Server">
+<img src="https://img.shields.io/badge/Pyton-pink" alt="Python">
+
 
 GitHub Stats 🚀
 
