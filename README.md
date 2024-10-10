@@ -21,3 +21,5 @@ GitHub Stats 🚀
 
 <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=Roghi-Kaboodi&show_icons=true&theme=radical" />
 
+https://img.shields.io/badge/Go-top-pink
+
