@@ -21,10 +21,9 @@ Am I :
 
 ---------
 
-<div style="text-align: left;">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Go-top-pink" alt="Go">
-  </a>
-</div>
+<a href="#top" style="float: right;">
+  <img src="https://img.shields.io/badge/Go-top-pink" alt="Go">
+</a>
+
 
 
