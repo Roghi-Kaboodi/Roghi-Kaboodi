@@ -1,4 +1,4 @@
-![Welcome]([path/to/demo.gif](https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/video_2024-10-10_13-53-02_2.gif?raw=true))
+<img align = "center" src = "[https://github-readme-stats.vercel.app/api?username=Roghi-Kaboodi&show_icons=true&theme=radical](https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/video_2024-10-10_13-53-02_2.gif?raw=true)" />
 
 
 
