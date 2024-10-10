@@ -1,5 +1,6 @@
 **Who Am I?**
-<marquee behavior="alternate" direction="right">
+<body>
+  <marquee behavior="alternate" direction="right">
 - Full Name : Roghayeh Kaboodi
 - Nick Name : Sahar
 - Birthday : 2003 July 10 , Thursday
@@ -7,6 +8,8 @@
 - Currently : Study and Learn
 - Quote : Nothing for Now
 </marquee>
+</body>
+
 ---------
 <img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 
