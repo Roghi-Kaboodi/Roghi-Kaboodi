@@ -1,9 +1,3 @@
-**Who Am I?**
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
 marquee{
  font-family:tahoma;
  width: 100%;
@@ -12,19 +6,12 @@ marquee{
  color: #fff;
  text-align:center;
 }
-
-</style>
-</head>
-<body>
-
 <marquee>
  <a href="https://free-learn.ir/"><img src="files/cat.gif"></a>
  <a href="https://free-learn.ir/"><img src="files/cat.gif"></a>
  <a href="https://free-learn.ir/"><img src="files/cat.gif"></a>
 </marquee>
-
-</body>
-</html>
+**Who Am I?**
 - Full Name : Roghayeh Kaboodi
 - Nick Name : Sahar
 - Birthday : 2003 July 10 , Thursday
