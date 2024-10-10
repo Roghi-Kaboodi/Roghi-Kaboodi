@@ -1,4 +1,4 @@
-<blink>**Who Am I?**</blink>
+<img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
 - Full Name : Roghayeh Kaboodi
 - Nick Name : Sahar
 - Birthday : 2003 July 10 , Thursday
@@ -6,7 +6,7 @@
 - Currently : Study and Learn
 - Quote : Nothing for Now
 ---------
-<img align = "center" src = "https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/Welcome-bro-752x752.png?raw=true" />
+
 
 <h2> Lerning : </h2>
 <h2 align = "center"> SQL Server </h2>
