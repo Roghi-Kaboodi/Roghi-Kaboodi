@@ -11,8 +11,7 @@ Am I :
 
 ---------
 
-https://img.shields.io/badge/Study-Lerning%20:-pink
-[**Lerning :**](https://img.shields.io/badge/Study-Lerning%20:-pink)
+https://img.shields.io/badge/Study-Lerning:-pink
 - SQL Server
 - Pyton
 - Machine learning
