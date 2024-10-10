@@ -1,7 +1,5 @@
-<video width="320" height="240" controls>
-  <source src="[https://github.com/your-username/your-repo-name/blob/main/demo.mp4](https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/raw/refs/heads/main/video_2024-10-10_13-53-02.mp4)" type="video/mp4">
-  مرورگر شما از پخش ویدئو پشتیبانی نمی‌کند.
-</video>
+![Welcome]([path/to/demo.gif](https://github.com/Roghi-Kaboodi/Roghi-Kaboodi/blob/main/video_2024-10-10_13-53-02_2.gif?raw=true))
+
 
 
 - Full Name : Roghayeh Kaboodi
