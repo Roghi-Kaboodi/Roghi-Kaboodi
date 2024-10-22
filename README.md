@@ -20,8 +20,9 @@ Am I :
 <img src="https://img.shields.io/badge/Pyton-pink" alt="Python">
 
 ---------
-[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/Roghi-Kaboodi)](https://www.linkedin.com/in/ehsan-shahbazi-848206225) 
+[![linkedin](https://img.shields.io/badge/linkedin-%2320232a.svg?style=for-the-badge&logo=linkedin&logoColor=white?url=https://codepen.io/Roghi-Kaboodi)](https://www.linkedin.com/in/ehsa) 
 [![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://codepen.io/Roghi-Kaboodi)](https://t.me/Eris-mw) 
+
 ![](https://komarev.com/ghpvc/?username=Roghi-Kaboodi&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Roghi-Kaboodi)
 <a href="http://www.coffeete.ir/Roghi-Kaboodi">
