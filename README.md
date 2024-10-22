@@ -27,9 +27,4 @@ Am I :
 ![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Roghi-Kaboodi)
 <a href="http://www.coffeete.ir/Roghi-Kaboodi">
 
-<a href="#top" style="float: right;">
-  <img src="https://img.shields.io/badge/Go-top-pink" alt="Go">
-</a>
-
-
-
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
